@@ -1,4 +1,4 @@
-print("Count Substance of Text")
+print("Counting Substance of Text")
 print(" ")
 
 x = input("Masukkan teks disini : ")
